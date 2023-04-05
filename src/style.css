@@ -29,14 +29,14 @@ footer a {
 	color: #3d57bc;
 	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
-#guess {
+.guess {
 	padding: 10px;
 	width: 40%;
 	border-radius: 10px;
 	border: none;
 	font-size: 20px;
 }
-#btn {
+.btn {
 	margin: 10px;
 	padding: 10px 30px;
 	border-radius: 10px;
