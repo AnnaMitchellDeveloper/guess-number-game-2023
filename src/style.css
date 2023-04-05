@@ -11,6 +11,12 @@ body {
 h3 {
 	font-size: 25px;
 }
+footer {
+	margin-top: 250px;
+}
+footer a {
+	color: black;
+}
 .container {
 	display: block;
 	margin: 0 auto;
